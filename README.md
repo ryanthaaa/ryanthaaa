@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![ryanthaaa](img/header3.png)
-### ✨Just a boy who loves programming.
+### ✨Just a poor boy who loves programming.
 - 💻 Coding my way from beginner to pro.
 - 📚 Junior Developer | Exploring the world of software development.
 
