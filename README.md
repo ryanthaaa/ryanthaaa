@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ryanthaaa](img/header1.png)
+![ryanthaaa](img/header2.png)
 ### ✨Just a poor boy who loves programming.
 - 💻 Coding my way from beginner to pro.
 - 📚 Junior Developer | Exploring the world of software development.
